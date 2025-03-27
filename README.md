@@ -24,7 +24,7 @@ Calculator with valdity recall and memory
 Code:
 <img width="1470" alt="Synthesized RTL" src="/Calculator%20with%20valididty%20and%20recall/Code.png">
 Waveform:
-<img width="1470" alt="Synthesized RTL" src="/Calculator%20with%20valididty%20and%20recall/Waveform.png">
+<img width="1470" alt="Synthesized RTL" src="/Calculator%20with%20valididty%20and%20recall/waveform.png">
 Viz:
 <img width="1470" alt="Synthesized RTL" src="/Calculator%20with%20valididty%20and%20recall/VIZ.png">
 
@@ -36,4 +36,4 @@ Objective : To implement different components for the pipelining architecture.
 
 
 Program counter :
-<img width="1470" alt="Synthesized RTL" src="/RISC-V-/blob/main/Program%20counter.png">
+<img width="1470" alt="Synthesized RTL" src="/Program%20counter.png">
