@@ -36,4 +36,4 @@ Objective : To implement different components for the pipelining architecture.
 
 
 Program counter :
-<img width="1470" alt="Synthesized RTL" src="/RISC-V-/blob/main/Program%20counter.png>
+<img width="1470" alt="Synthesized RTL" src="/RISC-V-/blob/main/Program%20counter.png">
