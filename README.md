@@ -37,3 +37,17 @@ Objective : To implement different components for the pipelining architecture.
 
 Program counter :
 <img width="1470" alt="Synthesized RTL" src="/Program%20counter.png">
+
+Instruction Decode :
+<img width="1470" alt="Synthesized RTL" src="Insrruction%20Decode.png">
+
+Instruction Fetch :
+<img width="1470" alt="Synthesized RTL" src="Fetch.png">
+
+Read/Write :
+<img width="1470" alt="Synthesized RTL" src="READ:WRITE.png">
+
+Branch implementation:
+<img width="1470" alt="Synthesized RTL" src="BranchImplementation.png">
+
+
