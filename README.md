@@ -51,3 +51,12 @@ Branch implementation:
 <img width="1470" alt="Synthesized RTL" src="BranchImplementation.png">
 
 
+DAY 5 : 
+
+Objective : Pipelingn overcoming hazards for the RISC V processor and implement the summing function.
+
+<img width="1470" alt="Synthesized RTL" src="DAY5.png">
+
+
+
+
