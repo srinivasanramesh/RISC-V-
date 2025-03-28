@@ -1,4 +1,28 @@
-# RISC-V-
+ RISC-V-MYTH-WORKSHOP
+
+DAY 1:
+Writing a C CODE for the sum of n integers and compling it and seeing it in assembly language for the RISC V.
+CODE:
+<img width="1470" alt="Synthesized RTL" src="DAY1_2/sum_of_int.png">
+Assembly Language and Spike output:
+<img width="1470" alt="Synthesized RTL" src="DAY1_2/AssmeblyLANGOUTPUT.png">
+<img width="1470" alt="Synthesized RTL" src="DAY1_2/Spike.png">
+
+
+We performed the same for signed and unsigned integers.
+
+<img width="1470" alt="Synthesized RTL" src="DAY1_2/signedunsignedpng.png">
+
+DAY 2:
+
+We wrote a program in assembly language and complied it using the RISC V architecture and ran it. Further, We converted it HEX code and used it to process trhought the PICORV 32 core.
+
+<img width="1470" alt="Synthesized RTL" src="DAY1_2/DAY2_aasemblypng.png">
+Assembly Language and Spike output:
+<img width="1470" alt="Synthesized RTL" src="DAY1_2/DAY2.spikepng.png">
+
+RUNNING ON PICROV 32
+<img width="1470" alt="Synthesized RTL" src="DAY1_2/Running on picorv32.png">
 
 
 DAY 3:
